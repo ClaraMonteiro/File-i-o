@@ -1,0 +1,7 @@
+H:\programming 2\LAB 8\more File io\more File io\bin\Debug\more File io.exe.config
+H:\programming 2\LAB 8\more File io\more File io\bin\Debug\more File io.exe
+H:\programming 2\LAB 8\more File io\more File io\bin\Debug\more File io.pdb
+H:\programming 2\LAB 8\more File io\more File io\obj\Debug\more File io.csprojAssemblyReference.cache
+H:\programming 2\LAB 8\more File io\more File io\obj\Debug\more File io.csproj.CoreCompileInputs.cache
+H:\programming 2\LAB 8\more File io\more File io\obj\Debug\more File io.exe
+H:\programming 2\LAB 8\more File io\more File io\obj\Debug\more File io.pdb
